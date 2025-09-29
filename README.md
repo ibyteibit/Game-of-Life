@@ -1,14 +1,14 @@
 # Game-of-Life
-![game of life main image](https://github.com/ibyteibit/Game-of-Life/blob/main/GameofLife.png)
+![game of life main image](https://github.com/ibyteibit/Game-of-Life/blob/main/pics/GameofLife.png)
 ## Description
 - An interactive adaptation of Conway’s Game of Life
 - A variety of simulation tools are available to the user including zoom/pan, animated coordinate find, autozoom, speed adjustment, random cell generation, live statistics, and a maximizable 1000x1000 grid
 - Users can customize colorful “species” with specified rules for survival and mutation
 - Pre-programmed pattern templates, like gliders and oscillators, are also at the user’s disposal
 ## Add Species Menu
-![species image](https://github.com/ibyteibit/Game-of-Life/blob/main/Species.png) 
+![species image](https://github.com/ibyteibit/Game-of-Life/blob/main/pics/Species.png) 
 ## Select Template Menu
-![template image](https://github.com/ibyteibit/Game-of-Life/blob/main/Templates.png)
+![template image](https://github.com/ibyteibit/Game-of-Life/blob/main/pics/Templates.png)
 
 ## Tools
 - EclipseIDE
@@ -20,7 +20,7 @@
 - Designed my own buttons (DevButtons) built on JPanels that fade between colors on hover
 - Accounted for fractional values in graphics with a double-to-int converter that takes a loop index input
 
-![class heirarchy](https://github.com/ibyteibit/Game-of-Life/blob/main/ClassHeirarchy.png)
+![class heirarchy](https://github.com/ibyteibit/Game-of-Life/blob/main/pics/ClassHeirarchy.png)
 ## Build Instructions
 1. Download .java files in the [src](https://github.com/ibyteibit/Game-of-Life/tree/main/src) folder
 2. Compile and run them with your favorite Java IDE
