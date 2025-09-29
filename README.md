@@ -7,6 +7,7 @@
 - Pre-programmed pattern templates, like gliders and oscillators, are also at the user’s disposal
 ### Add Species Menu & Template Menu
 ![species image](https://github.com/ibyteibit/Game-of-Life/blob/main/pics/Species.png) ![template image](https://github.com/ibyteibit/Game-of-Life/blob/main/pics/Templates.png)
+<img width="337" height="345" alt="Species" src="https://github.com/user-attachments/assets/82dc7d75-f4cf-4f32-8035-004d16f8327a" />
 
 ## Tools
 - EclipseIDE
