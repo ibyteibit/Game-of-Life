@@ -6,9 +6,7 @@
 - Users can customize colorful “species” with specified rules for survival and mutation
 - Pre-programmed pattern templates, like gliders and oscillators, are also at the user’s disposal
 ### Add Species Menu
-![species image](https://github.com/ibyteibit/Game-of-Life/blob/main/pics/Species.png) 
-### Select Template Menu
-![template image](https://github.com/ibyteibit/Game-of-Life/blob/main/pics/Templates.png)
+![species image](https://github.com/ibyteibit/Game-of-Life/blob/main/pics/Species.png) ![template image](https://github.com/ibyteibit/Game-of-Life/blob/main/pics/Templates.png)
 
 ## Tools
 - EclipseIDE
