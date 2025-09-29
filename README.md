@@ -20,7 +20,7 @@
 - Designed my own buttons (DevButtons) built on JPanels that fade between colors on hover
 - Accounted for fractional values in graphics with a double-to-int converter that takes a loop index input
 
-![class heirarchy](https://github.com/ibyteibit/Game-of-Life/blob/main/pics/ClassHeirarchy.png)
+![class heirarchy](https://github.com/ibyteibit/Game-of-Life/blob/main/pics/Class_Heirarchy.png)
 ## Build Instructions
 1. Download .java files in the [src](https://github.com/ibyteibit/Game-of-Life/tree/main/src) folder
 2. Compile and run them with your favorite Java IDE
