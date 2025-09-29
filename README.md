@@ -1,4 +1,4 @@
-# Game-of-Life
+# Game of Life - *Personal Project*
 ![game of life main image](https://github.com/ibyteibit/Game-of-Life/blob/main/pics/GameofLife.png)
 ## Description
 - An interactive adaptation of Conway’s Game of Life
