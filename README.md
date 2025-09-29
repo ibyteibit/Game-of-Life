@@ -11,7 +11,10 @@
 ![template image](https://github.com/ibyteibit/Game-of-Life/blob/main/Templates.png)
 
 ## Tools
-
+- EclipseIDE
 ## Methodology
 
+![class heirarchy](https://github.com/ibyteibit/Game-of-Life/blob/main/ClassHeirarchy.png)
 ## Build Instructions
+1. Download .java files in the [src](https://github.com/ibyteibit/Game-of-Life/tree/main/src) folder
+2. Compile and run them with your favorite Java IDE
