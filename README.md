@@ -1,4 +1,4 @@
-# Game of Life - *Personal Project*
+# Conway's Game of Life - *Personal Project*
 ![game of life main image](https://github.com/ibyteibit/Game-of-Life/blob/main/pics/GameofLife.png)
 <br></br>
 **Project Dates:** Apr 2022 - Sep 2025
