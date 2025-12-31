@@ -15,7 +15,7 @@
 - EclipseIDE
 ## Methodology
 - Researched extensively Java Swing classes and GridBagLayout to program the UI
-- Developed manually the grid rendering and zoom/pan functions through much trial and error
+- Developed the grid rendering and zoom/pan functions from scratch through much trial and error
 - Prevented errors by dummy-proofing all user inputs
 - Managed ArrayLists for Parent and Child species with code to decide what species to place in a cell and to allow for editing/deleting species
 - Designed my own buttons (DevButtons) built on JPanels that fade between colors on hover
