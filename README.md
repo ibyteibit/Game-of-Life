@@ -1,5 +1,8 @@
 # Game of Life - *Personal Project*
 ![game of life main image](https://github.com/ibyteibit/Game-of-Life/blob/main/pics/GameofLife.png)
+<br></br>
+**Project Dates:** Apr 2022 - Sep 2025
+
 ## Description
 - An interactive adaptation of Conway’s Game of Life
 - A variety of simulation tools are available to the user including zoom/pan, animated coordinate find, autozoom, speed adjustment, random cell generation, live statistics, and a maximizable 1000x1000 grid
